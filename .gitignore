@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Model files
+models/*.caffemodel
+models/*.prototxt.txt
+
+input/*
+output/*
+
+plan.md
